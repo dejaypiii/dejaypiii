@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dejaypiii
 - 👀 I’m interested in software development, running, video games, fiction and speed cubing
-- 🌱 I’m currently learning Go and Rust
+- 🌱 At the moment I'm experimenting with rust and nodejs
 - 💪 I’m currently working on nothing specifc
-- 📫 You can reach me via dejaypiii@gmail.com
+- 📫 You can reach me via dejaypiii@gmail.com or https://dejaypiii.github.io
