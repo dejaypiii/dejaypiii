@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dejaypiii
 - 👀 I’m interested in software development, running, video games, fiction and speed cubing
-- 🌱 At the moment I'm experimenting with rust and nodejs
+- 🌱 At the moment I'm experimenting with rust, c++ and dotnet
 - 💪 I’m currently working on nothing specific
-- 📫 You can reach me via dejaypiii@gmail.com or https://dejaypiii.github.io
+- 📫 You can reach me via dejaypiii@gmail.com
